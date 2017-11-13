@@ -5,3 +5,13 @@ tsconfig.json
 applicationhost.config
 Blog images
 Tutorial.docx
+/Data
+/packages
+/Web/bin
+/Web/Build
+/Web/node_modules
+/Web/obj/Debug
+/Web/Web.csproj.user
+/Web/package-lock.json
+/package-lock.json
+/.vs/Knockout-TypeScript-Webpack-Starter/v15
