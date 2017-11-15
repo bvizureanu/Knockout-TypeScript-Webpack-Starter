@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Knockout-TypeScript-Webpack-Starter project",
   "main": "webpack.config.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "scripts": {
     "build-prod": "webpack --env.prod"
   },
@@ -15,7 +14,7 @@
     "knockout": "^3.4.0",
     "path": "^0.12.7",
     "text-loader": "0.0.1",
-    "ts-loader": "^0.9.4",
+    "ts-loader": "3.1.1",
     "typescript": "^2.0.3",
     "webpack": "^1.13.2"
   },
